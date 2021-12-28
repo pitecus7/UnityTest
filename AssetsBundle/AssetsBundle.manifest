@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 3288278451
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prefabcubeone
+      Dependencies: {}
+    Info_1:
+      Name: prefabcubetwo
+      Dependencies: {}
